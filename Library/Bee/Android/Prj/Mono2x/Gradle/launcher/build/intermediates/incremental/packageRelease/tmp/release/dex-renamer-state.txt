@@ -1,0 +1,4 @@
+#Thu Jan 16 13:07:55 MSK 2025
+base.0=D\:\\job\\Unity_Lessons_stuff\\UnityProjects\\PlayneraTest\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
